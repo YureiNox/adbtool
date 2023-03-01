@@ -41,9 +41,9 @@ cd .....
 AND
 
 
-
-
-
+pip install -r requirement.txt 
+or 
+pip3 install -r requirement.txt
 
 python start.py
 
