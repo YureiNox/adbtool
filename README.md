@@ -11,7 +11,7 @@ or download zip file...
 
 `cd your/adbtool/destination`
 
-example `mac/linux : /home/youraccountname/adbtool` `windows : C:\...
+example `mac/linux : /home/youraccountname/adbtool/adbtool` `windows : C:\...\adbtool\adbtool`
 
 # next
 
