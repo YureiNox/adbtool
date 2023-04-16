@@ -12,7 +12,7 @@ for install you can download...
 
 
 
-git clone https://github.com/whiterabbit-git/adbtool.git 
+'git clone https://github.com/whiterabbit-git/adbtool.git'
 
 
 
